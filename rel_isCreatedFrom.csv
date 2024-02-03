@@ -1,0 +1,13 @@
+lattice_part:cube1,material:AISI630
+lattice_part:cube2,material:AISI630
+lattice_part:cube3,material:AISI630
+lattice_part:cube4,material:AISI630
+lattice_part:bearing_support,material:AlSi10Mg
+lattice_part:cube7,material:AlSi10Mg
+lattice_part:A1,material:AlSi10Mg
+lattice_part:B,material:AlSi10Mg
+lattice_part:cube5,material:Ti6Al4V
+lattice_part:cube6,material:Ti6Al4V
+lattice_part:A2,material:AlSi10Mg
+lattice_part:tilt_bottom,material:AlSi10Mg
+lattice_part:C,material:AlSi10Mg
